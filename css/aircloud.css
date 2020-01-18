@@ -113,6 +113,7 @@ body {
 .nav .avatar-name .avatar img {
   width: 100px;
   height: 100px;
+  border-radius: 50%;
 }
 .nav .avatar-name .radius img {
   border-radius: 50%;
@@ -1234,4 +1235,3 @@ pre .javascript .function {
 .gitment-comment p {
   text-indent: 0;
 }
-/*# sourceMappingURL=aircloud.css.map */
